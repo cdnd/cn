@@ -1,2 +1,2 @@
 # cn
-cn video
+cn vd
